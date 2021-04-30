@@ -1,0 +1,25 @@
+.btn-grey {
+	background-color: #e2bcb7;
+	padding: 7px 15px;
+	color: whitesmoke;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 1.5;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+a:hover {
+	color: #926e6f
+}
+
+.btn-card {
+	font-size: 14px;
+    text-decoration: none;
+    width: 200px;
+    color: black;
+    text-align: center;
+    margin: 55px;
+
+}

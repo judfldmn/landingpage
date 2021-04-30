@@ -1,0 +1,64 @@
+.container {
+	width: 1100px;
+	margin: auto auto;
+}
+
+
+.container p {
+	font-size: 20px;
+	text-align: center;
+	font-weight: lighter;
+}
+
+.container h2 {
+	text-align: center;
+	width: 1107px;
+}
+
+#grid2 {
+	display: flex;
+	flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 0px;
+    width: 1100px;
+    HEIGHT: 250px;
+    margin: 40px 0px;
+    flex-grow: 1;
+}
+
+.far fa-bookmark {
+	color: #926e6f;
+}
+
+.list-inline li {
+	display: inline; /* change list item behavior to inline */
+  	padding: 0px 20px; /* add som left/right padding between list items */
+}
+
+.icon {
+    display: inline-block;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+}
+
+.list-inline a {
+    list-style: none;
+    padding: 5px;
+    text-decoration: none;
+    background-color: #e2bcb7;
+    color: whitesmoke;
+    font-size: 40px;
+    display: inline-block;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#claim p {
+	font-size: 20px;
+	text-align: left;
+	font-weight: lighter;
+}

@@ -1,0 +1,32 @@
+.card {
+	width: 120px;
+    height: 120px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 50%);
+    border-radius: 10px;
+    margin: 20px 0px;
+    flex-basis: 200px;
+
+}
+
+#grid1 {
+	display: flex;
+	flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 0px;
+    width: 1100px;
+    HEIGHT: 250px;
+    margin: 40px 0px;
+    flex-grow: 1;
+}
+
+.card img {
+	width: 200px;
+	height: 150px;
+	border-radius: 5px;
+}
+
+.card a {
+	text-align: center;
+}
+
